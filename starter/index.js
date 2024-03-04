@@ -100,4 +100,3 @@ module.exports = {
     init,
     addEmployee
   };
-  
