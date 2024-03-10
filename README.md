@@ -65,4 +65,6 @@ This project was completed as part of the edX Boot Camp curriculum.
 ![Node.js Result](./media/Screenshot-node-js.png)
 
 ## Live Demo
+[Watch the Walkthrough Video](https://drive.google.com/file/d/1-NVojZAZ7cskYmevGEN8QaVkpIPwkMx8/view?usp=sharing)
+
 
