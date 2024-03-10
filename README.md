@@ -49,8 +49,7 @@ Once all team members have been added, select the option to finish building the 
 The application will generate an HTML file (team.html) in the output folder, displaying summaries for each team member.
 
 ## Tests
-Unit tests are provided in the _tests_ directory to ensure the functionality of the Employee, Manager, Engineer, and Intern classes.
-Run tests using the command npm test.
+Unit tests are provided in the {{_tests_}} directory to ensure the functionality of the Employee, Manager, Engineer, and Intern classes.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
