@@ -1,6 +1,8 @@
 # Team Profile Generator
+
 ## Overview
 Team Profile Generator is a Node.js command-line application that allows users to create a webpage displaying summaries for each member of a software engineering team. It takes in information about employees, including managers, engineers, and interns, and generates an HTML webpage with their details.
+
 ## Deployed Page
 
 [Visit Page](https://aysegulozen.github.io/Team-Profile-Generator/)
@@ -60,8 +62,8 @@ This project is licensed under the MIT License.
 This project was completed as part of the edX Boot Camp curriculum.
 
 ## Screenshots
-![Npm Run Test Result](./assets/Screenshot-run-test.png)
-![Node.js Result](./assets/Screenshot-node-js.png)
+![Npm Run Test Result](./media/Screenshot-run-test.png)
+![Node.js Result](./media/Screenshot-node-js.png)
 
 ## Live Demo
-[Watch the Walkthrough Video](https://drive.google.com/file/d/1-NVojZAZ7cskYmevGEN8QaVkpIPwkMx8/view?usp=sharing)
+
